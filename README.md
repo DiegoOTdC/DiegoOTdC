@@ -1,5 +1,5 @@
 <p align="center">
-Hi there! ~HowDoYouDo~
+How-do-you-do!
 <br/>
 <img src="https://i.imgur.com/zTHdRpP.gif" width="50%"/>   
 <br/>
