@@ -1,5 +1,6 @@
 <p align="center">
-How-do-you-do!
+  <strong>How-do-you-do!</strong>
+<br/>
 <br/>
 <img src="https://i.imgur.com/zTHdRpP.gif" width="50%"/>   
 <br/>
