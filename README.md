@@ -4,7 +4,8 @@
 <br/>
 <img src="https://i.imgur.com/zTHdRpP.gif" width="50%"/>   
 <br/>
-My name is Diégo, I'm from '92, have a creative background (Bachelor of Arts) and decided to switch to programming!   
+<br/>
+  My name is <strong>Diégo</strong>, I'm from '92, have a creative background (Bachelor of Arts) and decided to switch to programming!   
 <br/>
   Studying at Codaisseur to become a <strong>junior full stack developer</strong>  
 <br/>
