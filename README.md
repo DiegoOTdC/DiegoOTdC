@@ -5,7 +5,7 @@ How-do-you-do!
 <br/>
 My name is Diégo, I'm from '92, have a creative background (Bachelor of Arts) and decided to switch to programming!   
 <br/>
-Currently working on [Niles "The Digital Manservant"](https://github.com/DiegoOTdC/Niles-Frontend) <i>(AND LOVING IT!)</i>
+  Currently working on <a href="https://github.com/DiegoOTdC/Niles-Frontend">Niles "The Digital Manservant"</a> <i>(AND LOVING IT!)</i>
 <br/>
   Studied at Codaisseur to become a <strong>junior full stack developer</strong>  
 <br/>
