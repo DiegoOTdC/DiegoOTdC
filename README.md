@@ -11,4 +11,4 @@ My name is Diégo, I'm from '92, have a creative background (Bachelor of Arts) a
 <ins>Currently looking for a job!</ins>   
 <br/>
 <br/>
-Feel free to contact me: d.teixeiradacosta@hotmail.com</p>
+Feel free to contact me: <d.teixeiradacosta@hotmail.com></p>
