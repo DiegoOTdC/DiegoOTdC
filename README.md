@@ -7,7 +7,7 @@
 <br/>
   My name is <strong>Diégo</strong>, I'm from '92, have a creative background (Bachelor of Arts) and decided to switch to programming!   
 <br/>
-  Studying at Codaisseur to become a <strong>junior full stack developer</strong>  
+  Became a <strong>junior full stack developer</strong> after finishing the bootcamp at Codaisseur.
 <br/>
   Currently working on <a href="https://github.com/DiegoOTdC/Niles-Frontend">Niles "The Digital Manservant"</a>
 <br/>
