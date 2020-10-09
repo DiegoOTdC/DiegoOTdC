@@ -10,6 +10,7 @@
   Studying at Codaisseur to become a <strong>junior full stack developer</strong>  
 <br/>
   Currently working on <a href="https://github.com/DiegoOTdC/Niles-Frontend">Niles "The Digital Manservant"</a>
+<br/>
 Also, checkout this <a href="https://github.com/codeMonkeyMasters/codeMonkeyMaster-frontend">group project</a> I worked on.
 <br/>
 <br/>
